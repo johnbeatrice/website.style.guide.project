@@ -1,0 +1,173 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,400;1,200&family=Poppins:ital,wght@0,200;0,400;1,200&family=Source+Code+Pro:ital,wght@0,200;0,400;1,200&display=swap');
+
+
+html {
+  font-family: Helvetica;
+}
+
+.label {
+  white-space: nowrap;
+  position: relative;
+  left: 10%;
+}
+
+h2 {
+  padding: 10px
+}
+
+/* color section */
+
+.colorDiv {
+  border: 1px solid black;
+  width: 80%;
+  margin: 0% 10%;
+} 
+
+.colors1 {
+  color: white;
+  background-color: #2d5dcc;
+  display: inline-block;
+  margin-left: 10px;
+  text-align: center;
+  padding: 20px 0;
+  width: 30%
+
+  
+}
+
+.colors2 {
+  background-color: #d957d9;
+  display: inline-block;
+  text-align: center;
+  padding: 20px 0;
+  width: 30%
+}
+
+.colors3 {
+  background-color: #4fe0b0;
+  display: inline-block;
+  text-align: center;
+  padding: 20px 0;
+  width: 30%;
+}
+
+.colors4 {
+  background-color: #efd9ca;
+  display: inline-block;
+  text-align: center;
+  padding: 20px 0;
+  margin-left: 10px;
+  width: 30%;
+}
+
+/* font section */
+
+.fonts {
+  border: 1px solid black;
+  width: auto;
+  margin: 10px 10%;
+  }
+
+/*font section sizing */
+
+.scpFont {
+  display: inline-block;
+  width: 40%;
+  margin-left: 10px;
+}
+
+.nsFont {
+  display: inline-block;
+  width: 40%;
+  margin-left: 10px;
+}
+
+.pFont {
+  display: inline-block;
+  width: 40%;
+  margin-left: 10px;
+}
+
+.scp {
+  font-family: 'Source Code Pro:', monospace;
+  font-size: 20px;
+}
+
+.normal {
+  font-family: 'Source Code Pro:', monospace;
+}
+
+.bold {
+  font-family: 'Source Code Pro:', monospace;
+  font-weight: bold;
+}
+
+.italics {
+  font-family: 'Source Code Pro:', monospace;
+  font-style: italic;
+}
+
+.ns {
+  font-family: "Nunito Sans", monospace;
+  font-size: 20px;
+}
+
+.normal1 {
+  font-family: "Nunito Sans", monospace;
+}
+
+.bold1 {
+  font-family: "Nunito Sans", monospace;
+  font-weight: bold;
+}
+
+.italics1 {
+  font-family: "Nunito Sans", monospace;
+  font-style: italic;
+}
+
+.po {
+  font-family: Poppins, monospace;
+  font-size: 20px;
+}
+
+.normal2 {
+  font-family: Poppins, monospace;
+}
+
+.bold2 {
+  font-family: Poppins, monospace;
+  font-weight: bold;
+}
+
+.italics2 {
+  font-family: Poppins, monospace;
+  font-style: italic;
+}
+
+/* text styles section */
+
+.tStyles {
+  border: 1px solid black;
+  width: auto;
+  margin: 10px 10%;
+}
+
+.fontLabel {
+  padding-left: 10px;
+}
+
+.ulNS {
+  font-family: "Nunito Sans", monospace;
+}
+
+.ulP {
+  font-family: Poppins, monospace;
+}
+
+.subhd {
+  font-weight: bold;
+  font-size: 20px;
+}
+
